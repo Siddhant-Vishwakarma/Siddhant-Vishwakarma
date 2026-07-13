@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Siddhant Vishwakarma
 
-<!--
-**Siddhant-Vishwakarma/Siddhant-Vishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Aspiring Data Analyst passionate about data analysis and visualization.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- B.Tech (ECE) - 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- MySQL
+- Git
+
+## 📊 Projects
+- Bank Loan Risk Analysis
+- HR Analytics Dashboard
+- Sales Dashboard
+
+## 🌱 Currently Learning
+- Advanced SQL
+- Power BI
+- Git & GitHub
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/siddhant-vishwakarma
+- Email: sid.vish1812@gmail.com
