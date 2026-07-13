@@ -27,5 +27,5 @@ Aspiring Data Analyst passionate about data analysis and visualization.
 - Git & GitHub
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/siddhant-vishwakarma
+- LinkedIn: https://www.linkedin.com/in/siddhant-vishwakarma-56a790274
 - Email: sid.vish1812@gmail.com
